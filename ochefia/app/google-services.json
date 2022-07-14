@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291790269622",
+    "project_id": "dbochefia",
+    "storage_bucket": "dbochefia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291790269622:android:c2144758af2dd9deb4ca17",
+        "android_client_info": {
+          "package_name": "com.ezio.ochefia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291790269622-kt2mufv8igmep9oc0mse6tohs3tr91sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0eo_FR07XSoVvZzNxf5e3lEhWPebgumE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291790269622-kt2mufv8igmep9oc0mse6tohs3tr91sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

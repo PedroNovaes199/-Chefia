@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ochefia</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Cadastrar</string>
+    <string name="title_cadastro">Cadastre-se</string>
+
+</resources>
